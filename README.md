@@ -1,5 +1,3 @@
-![GlangYsoserial](https://socialify.git.ci/qi4L/GlangYsoserial/image?description=1&font=KoHo&forks=1&language=1&logo=https%3A%2F%2Fs11.ax1x.com%2F2024%2F01%2F14%2FpFP7Cmn.jpg&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto)
-
 # Usage example
 
 ```go
